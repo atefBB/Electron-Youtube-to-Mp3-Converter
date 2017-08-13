@@ -9,7 +9,7 @@
 
 ## Screenshot
 
-![screenshot.JPG](img/screenshot.JPG)
+![screenshot.JPG](img/screenshot_1.JPG)
 
 ## How To Use
 
